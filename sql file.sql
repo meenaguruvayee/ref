@@ -1,1 +1,1 @@
-select * from emp;
+select * from emp where empid=1011;
